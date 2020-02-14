@@ -1,2 +1,0 @@
-This is dev branch.
-This is feature1 branch.OK
